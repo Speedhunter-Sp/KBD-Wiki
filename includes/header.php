@@ -17,7 +17,7 @@ $page_title = $page_title ?? SITE_TITLE;
 <header class="site-header">
   <div class="shell">
     <a class="wordmark" href="<?= base_url('index.php') ?>">
-      Keeb<span class="dot">&#9679;</span>Wiki
+      KBD<span class="dot">&#9679;</span>Wiki
       <span class="tag">/personal build archive</span>
     </a>
     <nav class="nav-links">
